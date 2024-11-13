@@ -25,6 +25,6 @@
 ---
 The Geopolitics of AI by Bernard Marr on Forbs accessed on 13th of November 2024 https://www.forbes.com/sites/bernardmarr/2024/09/18/the-geopolitics-of-ai/
 
-The Geopolitical Impact of Emerging Technologies by POPESCU, A.I.C. (2021) ‘THE GEOPOLITICAL IMPACT OF THE EMERGING TECHNOLOGIES’, Bulletin of ‘Carol I’ National Defense University, 10(4), pp. 7–21. Available at: https://doi.org/10.53477/2284-9378-21-38.
+The Geopolitical Impact of Emerging Technologies by POPESCU, A.I.C. (2021) ‘THE GEOPOLITICAL IMPACT OF THE EMERGING TECHNOLOGIES’, Bulletin of ‘Carol I’ National Defence University, 10(4), pp. 7–21. Available at: https://doi.org/10.53477/2284-9378-21-38.
 
 
